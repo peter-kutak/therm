@@ -1,0 +1,2 @@
+* * * * * root /usr/bin/python3 /opt/therm/therm.py 2>&1 | /usr/bin/logger -t therm
+
